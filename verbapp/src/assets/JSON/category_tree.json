@@ -1,0 +1,259 @@
+{
+    "be named": {
+        "present": {
+            "i": [
+                "no object"
+            ],
+            "s/he": [
+                "no object"
+            ],
+            "s/he and i (excl.)": [
+                "no object"
+            ],
+            "them and i (excl.)": [
+                "no object"
+            ],
+            "those three": [
+                "no object"
+            ],
+            "those two": [
+                "no object"
+            ],
+            "you": [
+                "no object"
+            ],
+            "you and i (incl.)": [
+                "no object"
+            ],
+            "you three": [
+                "no object"
+            ],
+            "you two": [
+                "no object"
+            ],
+            "you two and i (incl.)": [
+                "no object"
+            ]
+        }
+    },
+    "pray": {
+        "present": {
+            "i": [
+                "no object"
+            ],
+            "s/he": [
+                "no object"
+            ],
+            "s/he and i (excl.)": [
+                "no object"
+            ],
+            "them and i (excl.)": [
+                "no object"
+            ],
+            "those three": [
+                "no object"
+            ],
+            "those two": [
+                "no object"
+            ],
+            "you": [
+                "no object"
+            ],
+            "you and i (incl.)": [
+                "no object"
+            ],
+            "you three": [
+                "no object"
+            ],
+            "you two": [
+                "no object"
+            ],
+            "you two and i (incl.)": [
+                "no object"
+            ]
+        }
+    },
+    "remove": {
+        "present": {
+            "i": [
+                "they",
+                "it"
+            ],
+            "s/he": [
+                "they",
+                "it"
+            ],
+            "s/he and i (excl.)": [
+                "they",
+                "it"
+            ],
+            "them and i (excl.)": [
+                "it",
+                "they"
+            ],
+            "those three": [
+                "they",
+                "it"
+            ],
+            "those two": [
+                "they",
+                "it"
+            ],
+            "you": [
+                "it",
+                "they"
+            ],
+            "you and i (incl.)": [
+                "they",
+                "it"
+            ],
+            "you three": [
+                "they",
+                "it"
+            ],
+            "you two": [
+                "they",
+                "it"
+            ],
+            "you two and i (incl.)": [
+                "they",
+                "it"
+            ]
+        }
+    },
+    "see": {
+        "present": {
+            "i": [
+                "you three",
+                "you",
+                "s/he",
+                "those three"
+            ],
+            "s/he": [
+                "s/he",
+                "you three",
+                "s/he and i (excl.)",
+                "you",
+                "i",
+                "you and i (incl.)",
+                "those three"
+            ],
+            "s/he and i (excl.)": [
+                "you",
+                "those three",
+                "s/he",
+                "you three"
+            ],
+            "those three": [
+                "i",
+                "s/he and i (excl.)",
+                "you three",
+                "you",
+                "those three",
+                "s/he",
+                "you and i (incl.)"
+            ],
+            "you": [
+                "s/he and i (excl.)",
+                "those three",
+                "i",
+                "s/he"
+            ],
+            "you and i (incl.)": [
+                "s/he",
+                "those three"
+            ],
+            "you three": [
+                "i",
+                "s/he and i (excl.)",
+                "s/he",
+                "those three"
+            ]
+        }
+    },
+    "understand": {
+        "present": {
+            "i": [
+                "they",
+                "it"
+            ],
+            "s/he": [
+                "they",
+                "it"
+            ],
+            "s/he and i (excl.)": [
+                "it",
+                "they"
+            ],
+            "them and i (excl.)": [
+                "it",
+                "they"
+            ],
+            "those three": [
+                "they",
+                "it"
+            ],
+            "those two": [
+                "it",
+                "they"
+            ],
+            "you": [
+                "it",
+                "they"
+            ],
+            "you and i (incl.)": [
+                "it",
+                "they"
+            ],
+            "you three": [
+                "it",
+                "they"
+            ],
+            "you two": [
+                "it",
+                "they"
+            ],
+            "you two and i (incl.)": [
+                "it",
+                "they"
+            ]
+        }
+    },
+    "write": {
+        "present": {
+            "i": [
+                "no object"
+            ],
+            "s/he": [
+                "no object"
+            ],
+            "s/he and i (excl.)": [
+                "no object"
+            ],
+            "them and i (excl.)": [
+                "no object"
+            ],
+            "those three": [
+                "no object"
+            ],
+            "those two": [
+                "no object"
+            ],
+            "you": [
+                "no object"
+            ],
+            "you and i (incl.)": [
+                "no object"
+            ],
+            "you three": [
+                "no object"
+            ],
+            "you two": [
+                "no object"
+            ],
+            "you two and i (incl.)": [
+                "no object"
+            ]
+        }
+    }
+}

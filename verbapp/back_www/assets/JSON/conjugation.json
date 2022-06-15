@@ -1,0 +1,486 @@
+[
+    [
+        "verb",
+        "tense",
+        "subject",
+        "object",
+        "conjugation"
+    ],
+    {
+        "be named": {
+            "present": {
+                "i": {
+                    "no object": [
+                        "teluisi"
+                    ]
+                },
+                "s/he": {
+                    "no object": [
+                        "teluisit"
+                    ]
+                },
+                "s/he and i (excl.)": {
+                    "no object": [
+                        "teluisiek"
+                    ]
+                },
+                "them and i (excl.)": {
+                    "no object": [
+                        "teluisultiek"
+                    ]
+                },
+                "those three": {
+                    "no object": [
+                        "teluisultijik"
+                    ]
+                },
+                "those two": {
+                    "no object": [
+                        "teluisijik"
+                    ]
+                },
+                "you": {
+                    "no object": [
+                        "teluisin"
+                    ]
+                },
+                "you and i (incl.)": {
+                    "no object": [
+                        "teluisi'kw"
+                    ]
+                },
+                "you three": {
+                    "no object": [
+                        "teluisultioq"
+                    ]
+                },
+                "you two": {
+                    "no object": [
+                        "teluisioq"
+                    ]
+                },
+                "you two and i (incl.)": {
+                    "no object": [
+                        "teluisulti'kw"
+                    ]
+                }
+            }
+        },
+        "pray": {
+            "present": {
+                "i": {
+                    "no object": [
+                        "alasutmay"
+                    ]
+                },
+                "s/he": {
+                    "no object": [
+                        "alasutmat"
+                    ]
+                },
+                "s/he and i (excl.)": {
+                    "no object": [
+                        "alasutmayek"
+                    ]
+                },
+                "them and i (excl.)": {
+                    "no object": [
+                        "alasutma'tiyek"
+                    ]
+                },
+                "those three": {
+                    "no object": [
+                        "alasutma'tijik"
+                    ]
+                },
+                "those two": {
+                    "no object": [
+                        "alasutmajik"
+                    ]
+                },
+                "you": {
+                    "no object": [
+                        "alasutman"
+                    ]
+                },
+                "you and i (incl.)": {
+                    "no object": [
+                        "alasutmayikw"
+                    ]
+                },
+                "you three": {
+                    "no object": [
+                        "alasutma'tiyoq"
+                    ]
+                },
+                "you two": {
+                    "no object": [
+                        "alasutmayoq"
+                    ]
+                },
+                "you two and i (incl.)": {
+                    "no object": [
+                        "alasutma'ti'kw"
+                    ]
+                }
+            }
+        },
+        "remove": {
+            "present": {
+                "i": {
+                    "it": [
+                        "mena'tu"
+                    ],
+                    "they": [
+                        "mena'tuanl"
+                    ]
+                },
+                "s/he": {
+                    "it": [
+                        "mena'toq"
+                    ],
+                    "they": [
+                        "mena'toql"
+                    ]
+                },
+                "s/he and i (excl.)": {
+                    "it": [
+                        "mena'tuek"
+                    ],
+                    "they": [
+                        "mena'tuekl"
+                    ]
+                },
+                "them and i (excl.)": {
+                    "it": [
+                        "mena'tu'tiyek"
+                    ],
+                    "they": [
+                        "mena'tu'tiyekl"
+                    ]
+                },
+                "those three": {
+                    "it": [
+                        "mena'tu'tijik"
+                    ],
+                    "they": [
+                        "mena'tu'ti'tijl"
+                    ]
+                },
+                "those two": {
+                    "it": [
+                        "mena'toqik"
+                    ],
+                    "they": [
+                        "mena'tu'tijl"
+                    ]
+                },
+                "you": {
+                    "it": [
+                        "mena'tu'n"
+                    ],
+                    "they": [
+                        "mena'tu'nl"
+                    ]
+                },
+                "you and i (incl.)": {
+                    "it": [
+                        "mena'tu'kw"
+                    ],
+                    "they": [
+                        "mena'tu'kwl"
+                    ]
+                },
+                "you three": {
+                    "it": [
+                        "mena'tu'tiyoq"
+                    ],
+                    "they": [
+                        "mena'tu'tiyoql"
+                    ]
+                },
+                "you two": {
+                    "it": [
+                        "mena'tuoq"
+                    ],
+                    "they": [
+                        "mena'tuoql"
+                    ]
+                },
+                "you two and i (incl.)": {
+                    "it": [
+                        "mena'tu'ti'kw"
+                    ],
+                    "they": [
+                        "mena'tu'ti'kwl"
+                    ]
+                }
+            }
+        },
+        "see": {
+            "present": {
+                "i": {
+                    "s/he": [
+                        "nemi'k"
+                    ],
+                    "those three": [
+                        "nemi'kik"
+                    ],
+                    "you": [
+                        "nemu'l"
+                    ],
+                    "you three": [
+                        "nemu'loq"
+                    ]
+                },
+                "s/he": {
+                    "i": [
+                        "nemi't"
+                    ],
+                    "s/he": [
+                        "nemiajl"
+                    ],
+                    "s/he and i (excl.)": [
+                        "nemi'nam\u0268t"
+                    ],
+                    "those three": [
+                        "nemiaji"
+                    ],
+                    "you": [
+                        "nemi'sk"
+                    ],
+                    "you and i (incl.)": [
+                        "nemu'ik"
+                    ],
+                    "you three": [
+                        "nemu'loq"
+                    ]
+                },
+                "s/he and i (excl.)": {
+                    "s/he": [
+                        "nemi'k\u0268t"
+                    ],
+                    "those three": [
+                        "nemi'k\u0268jik"
+                    ],
+                    "you": [
+                        "nemu'lek"
+                    ],
+                    "you three": [
+                        "nemu'lek"
+                    ]
+                },
+                "those three": {
+                    "i": [
+                        "nemi'jik"
+                    ],
+                    "s/he": [
+                        "nemia'tijl"
+                    ],
+                    "s/he and i (excl.)": [
+                        "nemi'nam\u0268jik"
+                    ],
+                    "those three": [
+                        "nemia'tiji"
+                    ],
+                    "you": [
+                        "nemi'skik"
+                    ],
+                    "you and i (incl.)": [
+                        "nemu'lkwik"
+                    ],
+                    "you three": [
+                        "nemu'loq"
+                    ]
+                },
+                "you": {
+                    "i": [
+                        "nemi'n"
+                    ],
+                    "s/he": [
+                        "nemi't"
+                    ],
+                    "s/he and i (excl.)": [
+                        "nemiek"
+                    ],
+                    "those three": [
+                        "nemi'jik"
+                    ]
+                },
+                "you and i (incl.)": {
+                    "s/he": [
+                        "nemi'kw"
+                    ],
+                    "those three": [
+                        "nemi'kwik"
+                    ]
+                },
+                "you three": {
+                    "i": [
+                        "nemioq"
+                    ],
+                    "s/he": [
+                        "nemioq"
+                    ],
+                    "s/he and i (excl.)": [
+                        "nemiek"
+                    ],
+                    "those three": [
+                        "nemio'q"
+                    ]
+                }
+            }
+        },
+        "understand": {
+            "present": {
+                "i": {
+                    "it": [
+                        "nestm"
+                    ],
+                    "they": [
+                        "nestmanl"
+                    ]
+                },
+                "s/he": {
+                    "it": [
+                        "nestik"
+                    ],
+                    "they": [
+                        "nestkl"
+                    ]
+                },
+                "s/he and i (excl.)": {
+                    "it": [
+                        "nestmek"
+                    ],
+                    "they": [
+                        "nestmekl"
+                    ]
+                },
+                "them and i (excl.)": {
+                    "it": [
+                        "nestmu'tiyek"
+                    ],
+                    "they": [
+                        "nestmu'tiyekl"
+                    ]
+                },
+                "those three": {
+                    "it": [
+                        "nestmu'ijik"
+                    ],
+                    "they": [
+                        "nestmu'ti'tijl"
+                    ]
+                },
+                "those two": {
+                    "it": [
+                        "nestmi'tij"
+                    ],
+                    "they": [
+                        "nestmi'tijl"
+                    ]
+                },
+                "you": {
+                    "it": [
+                        "nestmn"
+                    ],
+                    "they": [
+                        "nestmnl"
+                    ]
+                },
+                "you and i (incl.)": {
+                    "it": [
+                        "nestmn'kw"
+                    ],
+                    "they": [
+                        "nestmu'kwl"
+                    ]
+                },
+                "you three": {
+                    "it": [
+                        "nestmu'tiyok"
+                    ],
+                    "they": [
+                        "nestmu'tiyoql"
+                    ]
+                },
+                "you two": {
+                    "it": [
+                        "nestmoq"
+                    ],
+                    "they": [
+                        "nestmoql"
+                    ]
+                },
+                "you two and i (incl.)": {
+                    "it": [
+                        "nestmu'ti'kw"
+                    ],
+                    "they": [
+                        "nestmu'ti'kwl"
+                    ]
+                }
+            }
+        },
+        "write": {
+            "present": {
+                "i": {
+                    "no object": [
+                        "ewi'kikey"
+                    ]
+                },
+                "s/he": {
+                    "no object": [
+                        "ewi'kiket"
+                    ]
+                },
+                "s/he and i (excl.)": {
+                    "no object": [
+                        "ewi'kikeyek"
+                    ]
+                },
+                "them and i (excl.)": {
+                    "no object": [
+                        "ewi'kik\u0268tiyek"
+                    ]
+                },
+                "those three": {
+                    "no object": [
+                        "ewi'kik\u0268tijik"
+                    ]
+                },
+                "those two": {
+                    "no object": [
+                        "ewi'kikejik"
+                    ]
+                },
+                "you": {
+                    "no object": [
+                        "ewi'kiken"
+                    ]
+                },
+                "you and i (incl.)": {
+                    "no object": [
+                        "ewi'kikeyikw"
+                    ]
+                },
+                "you three": {
+                    "no object": [
+                        "ewi'kik\u0268tiyoq"
+                    ]
+                },
+                "you two": {
+                    "no object": [
+                        "ewi'kikeyoq"
+                    ]
+                },
+                "you two and i (incl.)": {
+                    "no object": [
+                        "ewi'kik\u0268ti'kw"
+                    ]
+                }
+            }
+        }
+    }
+]

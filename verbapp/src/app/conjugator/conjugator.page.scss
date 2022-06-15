@@ -1,0 +1,99 @@
+
+.result {
+    color: var(--ion-color-tense);
+    font: bold 70px Century Gothic, Arial;
+    text-shadow: 0 0 1px var(--ion-color-tense-shade), 0 0 1px var(--ion-color-tense-shade), 0 0 1px var(--ion-color-tense-shade), 0 0 1px var(--ion-color-tense-shade), 0 0 1px var(--ion-color-tense-shade), 0 0 1px var(--ion-color-tense-shade), 0 0 1px var(--ion-color-tense-shade), 0 0 1px var(--ion-color-tense-shade);
+    font-size: 250%;
+    letter-spacing: 2px;
+    text-align: center;
+    padding-bottom: 40%;
+    padding-top: 5%;
+    margin:0%;
+  }
+  
+  ion-item{
+    --inner-padding-end: 0px;
+    --padding-start:0px;
+  }
+  
+  .selected{
+    padding: 0px 15px !important;
+  }
+  
+  /* title of card */
+  .title {
+    font-size: 22px;
+    width: 50%;
+    color: rgb(255, 255, 255) !important;
+  }
+  
+  .tooltip{
+    color: rgb(255, 255, 255) !important;
+    cursor: pointer
+  }
+
+  /* colour of text on card after selecting item*/
+  ion-label.ling, ion-label.eng {
+    font-size: 16pt !important;
+    font-family: Helvetica;
+    letter-spacing: 0.03em;
+    color: rgb(255, 255, 255) !important;
+    padding-left:5%;
+    width: 20px !important;
+  }
+  
+  ion-label.english{
+    font-weight:bold;
+  }
+  
+  ion-label.ling{
+    font-style: italic;
+    float: left;
+  }
+
+  ion-label.tooltip-help {
+    color: var(--ion-color-primary);
+    padding: 0px 5px 0px 5px;
+  }
+  
+  ion-item.child{
+    --margin-start: 0 !important;
+    filter: brightness(90%);
+    display:block;
+  }
+  
+  .icon {
+    padding: 0px !important;
+    width: 20px !important;
+    height: 20px !important;
+  }
+  
+  ion-card-content{
+    padding: 15px 15px 0px 15px !important;
+  }
+  
+  ion-card{
+    margin: 8px 8px;
+  }
+  
+  ion-button.build{
+    height: 80px;
+    width: 160px;
+    font-weight: bold;
+    font-size: 16px;
+    color: white;
+  }
+  
+  .error{
+    color: red;
+    padding-top: 5%;
+    padding-bottom: 30%;
+    font-size: 16pt;
+  }
+
+  ion-accordion { 
+    width: calc(100% - 32px);
+    margin-left: 16px;
+  }
+
+  

@@ -1,0 +1,110 @@
+verb,conjugation,tense,subject,object,verb_translation,tense_translation,subject_translation,object_translation,verb_base,tense_base,subject_base,object_base
+understand,nestmi'tij,present,those two,it,nestm,kiskuk,nekmow (dual),it,understand,present,those two,it
+understand,nestmoq,present,you two,it,nestm,kiskuk,kilew (dual),it,understand,present,you two,it
+understand,nestmu'ti'kw,present,you two and I (incl.),it,nestm,kiskuk,kinu (plural),it,understand,present,you two and I (incl.),it
+understand,nestmn'kw,present,you and I (incl.),it,nestm,kiskuk,kinu (dual),it,understand,present,you and I (incl.),it
+understand,nestmn,present,you,it,nestm,kiskuk,k'il,it,understand,present,you,it
+understand,nestm,present,I,it,nestm,kiskuk,n'in,it,understand,present,I,it
+understand,nestmu'ti'tijl,present,those three,they,nestm,kiskuk,nekmow (plural),they,understand,present,those three,they
+understand,nestmu'tiyoql,present,you three,they,nestm,kiskuk,kilew (plural),they,understand,present,you three,they
+understand,nestmi'tijl,present,those two,they,nestm,kiskuk,nekmow (dual),they,understand,present,those two,they
+understand,nestmoql,present,you two,they,nestm,kiskuk,kilew (dual),they,understand,present,you two,they
+understand,nestmu'tiyekl,present,them and I (excl.),they,nestm,kiskuk,ninen (plural),they,understand,present,them and I (excl.),they
+understand,nestmekl,present,s/he and I (excl.),they,nestm,kiskuk,ninen (dual),they,understand,present,s/he and I (excl.),they
+understand,nestmu'ti'kwl,present,you two and I (incl.),they,nestm,kiskuk,kinu (plural),they,understand,present,you two and I (incl.),they
+understand,nestmu'kwl,present,you and I (incl.),they,nestm,kiskuk,kinu (dual),they,understand,present,you and I (incl.),they
+understand,nestkl,present,s/he,they,nestm,kiskuk,nekm,they,understand,present,s/he,they
+understand,nestmnl,present,you,they,nestm,kiskuk,k'il,they,understand,present,you,they
+understand,nestmanl,present,I,they,nestm,kiskuk,n'in,they,understand,present,I,they
+understand,nestmu'ijik,present,those three,it,nestm,kiskuk,nekmow (plural),it,understand,present,those three,it
+understand,nestmu'tiyok,present,you three,it,nestm,kiskuk,kilew (plural),it,understand,present,you three,it
+understand,nestmu'tiyek,present,them and I (excl.),it,nestm,kiskuk,ninen (plural),it,understand,present,them and I (excl.),it
+understand,nestmek,present,s/he and I (excl.),it,nestm,kiskuk,ninen (dual),it,understand,present,s/he and I (excl.),it
+understand,nestik,present,s/he,it,nestm,kiskuk,nekm,it,understand,present,s/he,it
+remove,mena'tu'ti'kw,present,you two and I (incl.),it,mena'tu,kiskuk,kinu (plural),it,remove,present,you two and I (incl.),it
+remove,mena'tu'kw,present,you and I (incl.),it,mena'tu,kiskuk,kinu (dual),it,remove,present,you and I (incl.),it
+remove,mena'tu'tiyoq,present,you three,it,mena'tu,kiskuk,kilew (plural),it,remove,present,you three,it
+remove,mena'tuoq,present,you two,it,mena'tu,kiskuk,kilew (dual),it,remove,present,you two,it
+remove,mena'toq,present,s/he,it,mena'tu,kiskuk,nekm,it,remove,present,s/he,it
+remove,mena'tu'n,present,you,it,mena'tu,kiskuk,k'il,it,remove,present,you,it
+remove,mena'tu,present,I,it,mena'tu,kiskuk,n'in,it,remove,present,I,it
+remove,mena'tu'ti'tijl,present,those three,they,mena'tu,kiskuk,nekmow (plural),they,remove,present,those three,they
+remove,mena'tu'tiyoql,present,you three,they,mena'tu,kiskuk,kilew (plural),they,remove,present,you three,they
+remove,mena'tu'tijl,present,those two,they,mena'tu,kiskuk,nekmow (dual),they,remove,present,those two,they
+remove,mena'tuoql,present,you two,they,mena'tu,kiskuk,kilew (dual),they,remove,present,you two,they
+remove,mena'tu'tiyekl,present,them and I (excl.),they,mena'tu,kiskuk,ninen (plural),they,remove,present,them and I (excl.),they
+remove,mena'tuekl,present,s/he and I (excl.),they,mena'tu,kiskuk,ninen (dual),they,remove,present,s/he and I (excl.),they
+remove,mena'tu'ti'kwl,present,you two and I (incl.),they,mena'tu,kiskuk,kinu (plural),they,remove,present,you two and I (incl.),they
+remove,mena'tu'kwl,present,you and I (incl.),they,mena'tu,kiskuk,kinu (dual),they,remove,present,you and I (incl.),they
+remove,mena'toql,present,s/he,they,mena'tu,kiskuk,nekm,they,remove,present,s/he,they
+remove,mena'tu'nl,present,you,they,mena'tu,kiskuk,k'il,they,remove,present,you,they
+remove,mena'tuanl,present,I,they,mena'tu,kiskuk,n'in,they,remove,present,I,they
+remove,mena'tu'tijik,present,those three,it,mena'tu,kiskuk,nekmow (plural),it,remove,present,those three,it
+remove,mena'toqik,present,those two,it,mena'tu,kiskuk,nekmow (dual),it,remove,present,those two,it
+remove,mena'tu'tiyek,present,them and I (excl.),it,mena'tu,kiskuk,ninen (plural),it,remove,present,them and I (excl.),it
+remove,mena'tuek,present,s/he and I (excl.),it,mena'tu,kiskuk,ninen (dual),it,remove,present,s/he and I (excl.),it
+write,ewi'kikɨtiyoq,present,you three,no object,ewi'kikey,kiskuk,kilew (plural),-,write,present,you three,no object
+write,ewi'kikeyoq,present,you two,no object,ewi'kikey,kiskuk,kilew (dual),-,write,present,you two,no object
+write,ewi'kikɨti'kw,present,you two and I (incl.),no object,ewi'kikey,kiskuk,kinu (plural),-,write,present,you two and I (incl.),no object
+write,ewi'kikeyikw,present,you and I (incl.),no object,ewi'kikey,kiskuk,kinu (dual),-,write,present,you and I (incl.),no object
+write,ewi'kiket,present,s/he,no object,ewi'kikey,kiskuk,nekm,-,write,present,s/he,no object
+write,ewi'kiken,present,you,no object,ewi'kikey,kiskuk,k'il,-,write,present,you,no object
+write,ewi'kikɨtijik,present,those three,no object,ewi'kikey,kiskuk,nekmow (plural),-,write,present,those three,no object
+write,ewi'kikejik,present,those two,no object,ewi'kikey,kiskuk,nekmow (dual),-,write,present,those two,no object
+write,ewi'kikɨtiyek,present,them and I (excl.),no object,ewi'kikey,kiskuk,ninen (plural),-,write,present,them and I (excl.),no object
+write,ewi'kikeyek,present,s/he and I (excl.),no object,ewi'kikey,kiskuk,ninen (dual),-,write,present,s/he and I (excl.),no object
+write,ewi'kikey,present,I,no object,ewi'kikey,kiskuk,n'in,-,write,present,I,no object
+pray,alasutma'tiyoq,present,you three,no object,alasutmay,kiskuk,kilew (plural),-,pray,present,you three,no object
+pray,alasutmayoq,present,you two,no object,alasutmay,kiskuk,kilew (dual),-,pray,present,you two,no object
+pray,alasutma'tijik,present,those three,no object,alasutmay,kiskuk,nekmow (plural),-,pray,present,those three,no object
+pray,alasutmajik,present,those two,no object,alasutmay,kiskuk,nekmow (dual),-,pray,present,those two,no object
+pray,alasutma'tiyek,present,them and I (excl.),no object,alasutmay,kiskuk,ninen (plural),-,pray,present,them and I (excl.),no object
+pray,alasutmayek,present,s/he and I (excl.),no object,alasutmay,kiskuk,ninen (dual),-,pray,present,s/he and I (excl.),no object
+pray,alasutma'ti'kw,present,you two and I (incl.),no object,alasutmay,kiskuk,kinu (plural),-,pray,present,you two and I (incl.),no object
+pray,alasutmayikw,present,you and I (incl.),no object,alasutmay,kiskuk,kinu (dual),-,pray,present,you and I (incl.),no object
+pray,alasutmat,present,s/he,no object,alasutmay,kiskuk,nekm,-,pray,present,s/he,no object
+pray,alasutman,present,you,no object,alasutmay,kiskuk,k'il,-,pray,present,you,no object
+pray,alasutmay,present,I,no object,alasutmay,kiskuk,n'in,-,pray,present,I,no object
+be named,teluisultioq,present,you three,no object,teluisi,kiskuk,kilew (plural),-,be named,present,you three,no object
+be named,teluisioq,present,you two,no object,teluisi,kiskuk,kilew (dual),-,be named,present,you two,no object
+be named,teluisultijik,present,those three,no object,teluisi,kiskuk,nekmow (plural),-,be named,present,those three,no object
+be named,teluisijik,present,those two,no object,teluisi,kiskuk,nekmow (dual),-,be named,present,those two,no object
+be named,teluisultiek,present,them and I (excl.),no object,teluisi,kiskuk,ninen (plural),-,be named,present,them and I (excl.),no object
+be named,teluisiek,present,s/he and I (excl.),no object,teluisi,kiskuk,ninen (dual),-,be named,present,s/he and I (excl.),no object
+be named,teluisulti'kw,present,you two and I (incl.),no object,teluisi,kiskuk,kinu (plural),-,be named,present,you two and I (incl.),no object
+be named,teluisi'kw,present,you and I (incl.),no object,teluisi,kiskuk,kinu (dual),-,be named,present,you and I (incl.),no object
+be named,teluisit,present,s/he,no object,teluisi,kiskuk,nekm,-,be named,present,s/he,no object
+be named,teluisin,present,you,no object,teluisi,kiskuk,k'il,-,be named,present,you,no object
+be named,teluisi,present,I,no object,teluisi,kiskuk,n'in,-,be named,present,I,no object
+see,nemi'n,present,you,I,nemi'k,kiskuk,k'il,n'in,see,present,you,I
+see,nemia'tiji,present,those three,those three,nemi'k,kiskuk,nekmow (plural),nekmow (plural),see,present,those three,those three
+see,nemiaji,present,s/he,those three,nemi'k,kiskuk,nekm,nekmow (plural),see,present,s/he,those three
+see,nemu'loq,present,s/he,you three,nemi'k,kiskuk,nekm,kilew (plural),see,present,s/he,you three
+see,nemu'loq,present,I,you three,nemi'k,kiskuk,n'in,kilew (plural),see,present,I,you three
+see,nemioq,present,you three,I,nemi'k,kiskuk,kilew (plural),n'in,see,present,you three,I
+see,nemu'loq,present,those three,you three,nemi'k,kiskuk,nekmow (plural),kilew (plural),see,present,those three,you three
+see,nemio'q,present,you three,those three,nemi'k,kiskuk,kilew (plural),nekmow (plural),see,present,you three,those three
+see,nemioq,present,you three,s/he,nemi'k,kiskuk,kilew (plural),nekm,see,present,you three,s/he
+see,nemi'kw,present,you and I (incl.),s/he,nemi'k,kiskuk,kinu (dual),nekm,see,present,you and I (incl.),s/he
+see,nemu'l,present,I,you,nemi'k,kiskuk,n'in,k'il,see,present,I,you
+see,nemia'tijl,present,those three,s/he,nemi'k,kiskuk,nekmow (plural),nekm,see,present,those three,s/he
+see,nemiajl,present,s/he,s/he,nemi'k,kiskuk,nekm,nekm,see,present,s/he,s/he
+see,nemi'namɨt,present,s/he,s/he and I (excl.),nemi'k,kiskuk,nekm,ninen (dual),see,present,s/he,s/he and I (excl.)
+see,nemi't,present,s/he,I,nemi'k,kiskuk,nekm,n'in,see,present,s/he,I
+see,nemi'kɨt,present,s/he and I (excl.),s/he,nemi'k,kiskuk,ninen (dual),nekm,see,present,s/he and I (excl.),s/he
+see,nemi't,present,you,s/he,nemi'k,kiskuk,k'il,nekm,see,present,you,s/he
+see,nemu'ik,present,s/he,you and I (incl.),nemi'k,kiskuk,nekm,kinu (dual),see,present,s/he,you and I (incl.)
+see,nemi'sk,present,s/he,you,nemi'k,kiskuk,nekm,k'il,see,present,s/he,you
+see,nemi'namɨjik,present,those three,s/he and I (excl.),nemi'k,kiskuk,nekmow (plural),ninen (dual),see,present,those three,s/he and I (excl.)
+see,nemu'lkwik,present,those three,you and I (incl.),nemi'k,kiskuk,nekmow (plural),kinu (dual),see,present,those three,you and I (incl.)
+see,nemiek,present,you three,s/he and I (excl.),nemi'k,kiskuk,kilew (plural),ninen (dual),see,present,you three,s/he and I (excl.)
+see,nemi'jik,present,those three,I,nemi'k,kiskuk,nekmow (plural),n'in,see,present,those three,I
+see,nemi'skik,present,those three,you,nemi'k,kiskuk,nekmow (plural),k'il,see,present,those three,you
+see,nemu'lek,present,s/he and I (excl.),you,nemi'k,kiskuk,ninen (dual),k'il,see,present,s/he and I (excl.),you
+see,nemu'lek,present,s/he and I (excl.),you three,nemi'k,kiskuk,ninen (dual),kilew (plural),see,present,s/he and I (excl.),you three
+see,nemi'kɨjik,present,s/he and I (excl.),those three,nemi'k,kiskuk,ninen (dual),nekmow (plural),see,present,s/he and I (excl.),those three
+see,nemi'kwik,present,you and I (incl.),those three,nemi'k,kiskuk,kinu (dual),nekmow (plural),see,present,you and I (incl.),those three
+see,nemiek,present,you,s/he and I (excl.),nemi'k,kiskuk,k'il,ninen (dual),see,present,you,s/he and I (excl.)
+see,nemi'jik,present,you,those three,nemi'k,kiskuk,k'il,nekmow (plural),see,present,you,those three
+see,nemi'kik,present,I,those three,nemi'k,kiskuk,n'in,nekmow (plural),see,present,I,those three
+see,nemi'k,present,I,s/he,nemi'k,kiskuk,n'in,nekm,see,present,I,s/he

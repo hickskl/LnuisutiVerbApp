@@ -1,0 +1,162 @@
+[
+    {
+        "name": "verb",
+        "children": [
+            {
+                "id": "be named",
+                "translation": "teluisi",
+                "base": "be named"
+            },
+            {
+                "id": "pray",
+                "translation": "alasutmay",
+                "base": "pray"
+            },
+            {
+                "id": "remove",
+                "translation": "mena'tu",
+                "base": "remove"
+            },
+            {
+                "id": "see",
+                "translation": "nemi'k",
+                "base": "see"
+            },
+            {
+                "id": "understand",
+                "translation": "nestm",
+                "base": "understand"
+            },
+            {
+                "id": "write",
+                "translation": "ewi'kikey",
+                "base": "write"
+            }
+        ]
+    },
+    {
+        "name": "tense",
+        "children": [
+            {
+                "id": "present",
+                "translation": "kiskuk",
+                "base": "present"
+            }
+        ]
+    },
+    {
+        "name": "subject",
+        "children": [
+            {
+                "id": "i",
+                "translation": "n'in",
+                "base": "i"
+            },
+            {
+                "id": "s/he",
+                "translation": "nekm",
+                "base": "s/he"
+            },
+            {
+                "id": "s/he and i (excl.)",
+                "translation": "ninen (dual)",
+                "base": "s/he and i (excl.)"
+            },
+            {
+                "id": "them and i (excl.)",
+                "translation": "ninen (plural)",
+                "base": "them and i (excl.)"
+            },
+            {
+                "id": "those three",
+                "translation": "nekmow (plural)",
+                "base": "those three"
+            },
+            {
+                "id": "those two",
+                "translation": "nekmow (dual)",
+                "base": "those two"
+            },
+            {
+                "id": "you",
+                "translation": "k'il",
+                "base": "you"
+            },
+            {
+                "id": "you and i (incl.)",
+                "translation": "kinu (dual)",
+                "base": "you and i (incl.)"
+            },
+            {
+                "id": "you three",
+                "translation": "kilew (plural)",
+                "base": "you three"
+            },
+            {
+                "id": "you two",
+                "translation": "kilew (dual)",
+                "base": "you two"
+            },
+            {
+                "id": "you two and i (incl.)",
+                "translation": "kinu (plural)",
+                "base": "you two and i (incl.)"
+            }
+        ]
+    },
+    {
+        "name": "object",
+        "children": [
+            {
+                "id": "i",
+                "translation": "n'in",
+                "base": "i"
+            },
+            {
+                "id": "it",
+                "translation": "it",
+                "base": "it"
+            },
+            {
+                "id": "no object",
+                "translation": "-",
+                "base": "no object"
+            },
+            {
+                "id": "s/he",
+                "translation": "nekm",
+                "base": "s/he"
+            },
+            {
+                "id": "s/he and i (excl.)",
+                "translation": "ninen (dual)",
+                "base": "s/he and i (excl.)"
+            },
+            {
+                "id": "they",
+                "translation": "they",
+                "base": "they"
+            },
+            {
+                "id": "those three",
+                "translation": "nekmow (plural)",
+                "base": "those three"
+            },
+            {
+                "id": "you",
+                "translation": "k'il",
+                "base": "you"
+            },
+            {
+                "id": "you and i (incl.)",
+                "translation": "kinu (dual)",
+                "base": "you and i (incl.)"
+            },
+            {
+                "id": "you three",
+                "translation": "kilew (plural)",
+                "base": "you three"
+            }
+        ]
+    }
+]

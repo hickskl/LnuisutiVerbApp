@@ -5,23 +5,26 @@ logs
 *.swp
 *.swo
 *.DS_Store
+Thumbs.db
 *.tmp
 
-.vscode/
-.sass-chache/
-.versions/
-tmp/
-temp/
-node_modules/
-platforms
-plugins
-core/theme-builder/
-core/test-components/
-core/css/
-angular/css/
-.angular/cache
+**/.vscode/
+**/.sass-chache/
+**/.versions/
+**/dist/
+**/tmp/
+**/temp/
+**/node_modules/
+**/build/
+**/platforms
+**/plugins
+**/core/theme-builder/
+**/core/test-components/
+**/core/css/
+**/angular/css/
+**/.angular/cache
 
-scripts/e2e/webpackEntryPoints.json
-scripts/build/e2e-generated-tsconfig.json
+**/scripts/e2e/webpackEntryPoints.json
+**/scripts/build/e2e-generated-tsconfig.json
 
 

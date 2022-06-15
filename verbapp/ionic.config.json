@@ -1,0 +1,7 @@
+{
+  "name": "verbapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
