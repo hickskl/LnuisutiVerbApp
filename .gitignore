@@ -16,6 +16,7 @@ Thumbs.db
 **/temp/
 **/node_modules/
 **/build/
+**/back_www/
 **/platforms
 **/plugins
 **/core/theme-builder/
