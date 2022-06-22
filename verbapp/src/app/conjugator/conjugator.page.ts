@@ -28,6 +28,7 @@ export class ConjugatorPage implements OnInit {
   selectedValues: any[];
   automaticClose = false;
   information: Array<grammarCat> = [];
+  informationRev: Array<grammarCat> = [];
   myFunInformation$ = new BehaviorSubject(this.information);
   selectedOptions: { [id: string]: { translation, id, base } } = {};
   selectedPath: { [id: string]: node} = {};
@@ -50,7 +51,13 @@ export class ConjugatorPage implements OnInit {
         id: '',
         base: ''
       };
+
+      this.informationRev.push(element);
     });
+
+    // Reversed copy used to generate correct order of FAB tooltip icons
+    this.informationRev.reverse();
+
     return 
   };
 

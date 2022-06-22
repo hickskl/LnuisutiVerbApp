@@ -35,109 +35,36 @@
     </ion-row>
   </ion-grid>
 
-  <!--FAB icon-->
   <ion-fab vertical="bottom" horizontal="end" slot="fixed">
     <ion-fab-button>
       <ion-icon name="help-circle-sharp" size="large" class="tooltip"></ion-icon>
     </ion-fab-button>
     <ion-fab-list side="top">
-      <ion-fab-button (click)="openModalToolTip('verb')" color="verb">V</ion-fab-button>
-      <ion-fab-button (click)="openModalToolTip('tense')" color="tense">T</ion-fab-button>
-      <ion-fab-button (click)="openModalToolTip('subject')" color="subject">S</ion-fab-button>
-      <ion-fab-button (click)="openModalToolTip('object')" color="object">O</ion-fab-button>
+      <ion-fab-button *ngFor="let item of informationRev; let i = index;" (click)="openModalToolTip(item.name)" color="{{item.name}}">
+        <ion-icon name="help-circle-sharp" size="large" class="tooltip"></ion-icon>
+      </ion-fab-button>
     </ion-fab-list>
   </ion-fab>
 
+  <!-- FAB
+  <ion-fab vertical="bottom" horizontal="end" slot="fixed">
+    <ion-fab-button>
+      <ion-icon name="help-circle-sharp" size="large" class="tooltip"></ion-icon>
+    </ion-fab-button>
+    <ion-fab-list side="top">
+      <ion-fab-button (click)="openModalToolTip('verb')" color="verb">
+        <ion-icon name="bicycle" size="medium" class="tooltip"></ion-icon>
+      </ion-fab-button>
+      <ion-fab-button (click)="openModalToolTip('tense')" color="tense">
+        <ion-icon name="time-outline" size="medium" class="tooltip"></ion-icon>
+      </ion-fab-button>
+      <ion-fab-button (click)="openModalToolTip('subject')" color="subject">
+        <ion-icon name="body" size="medium" class="tooltip"></ion-icon>
+      </ion-fab-button>
+      <ion-fab-button (click)="openModalToolTip('object')" color="object">
+        <ion-icon name="body" size="medium" class="tooltip"></ion-icon>
+      </ion-fab-button>
+    </ion-fab-list>
+  </ion-fab>-->
+
 </ion-content>
-
-<!--Buttons
-<ion-footer [translucent]="true">
-  <ion-toolbar>
-      <ion-item slot="start">
-      <ion-title>Grammar Help</ion-title>
-      <ion-button (click)="openModalToolTip('verb')" color="verb">Verb</ion-button>
-      <ion-button (click)="openModalToolTip('tense')" color="tense">Tense</ion-button>
-      <ion-button (click)="openModalToolTip('subject')" color="subject">Subject</ion-button>
-      <ion-button (click)="openModalToolTip('object')" color="object">Object</ion-button>
-    </ion-item>
-  </ion-toolbar>
-</ion-footer>-->
-
-<!--Grid buttons
-<ion-footer [translucent]="true">
-  <ion-toolbar>
-    <ion-grid>
-    <ion-row>
-      <ion-col>
-        <ion-title>Grammar Help</ion-title>
-      </ion-col>
-    </ion-row>
-    <ion-row scrollX="true" class="scroll-items">
-      <ion-col>
-          <ion-button (click)="openModalToolTip('verb')" color="verb">Verb</ion-button>
-          <ion-button (click)="openModalToolTip('tense')" color="tense">Tense</ion-button>
-          <ion-button (click)="openModalToolTip('subject')" color="subject">Subject</ion-button>
-          <ion-button (click)="openModalToolTip('object')" color="object">Object</ion-button>
-          <ion-button (click)="openModalToolTip('verb')" color="verb">Verb</ion-button>
-          <ion-button (click)="openModalToolTip('tense')" color="tense">Tense</ion-button>
-          <ion-button (click)="openModalToolTip('subject')" color="subject">Subject</ion-button>
-          <ion-button (click)="openModalToolTip('object')" color="object">Object</ion-button>
-          <ion-button (click)="openModalToolTip('verb')" color="verb">Verb</ion-button>
-          <ion-button (click)="openModalToolTip('tense')" color="tense">Tense</ion-button>
-          <ion-button (click)="openModalToolTip('subject')" color="subject">Subject</ion-button>
-          <ion-button (click)="openModalToolTip('object')" color="object">Object</ion-button>
-      </ion-col>
-    </ion-row>
-    </ion-grid>
-  </ion-toolbar>
-</ion-footer>-->
-
-<!--Accordion
-<ion-footer [translucent]="true">
-  <ion-toolbar>
-    <ion-accordion-group>
-      <ion-accordion value="colors" toggle-icon="chevron-down-outline">
-        <ion-item slot="header">
-          <ion-title>Grammar Help</ion-title>
-        </ion-item>
-
-        <ion-list slot="content">
-          <ion-grid>
-            <ion-row scrollX="true" class="scroll-items">
-              <ion-col>
-                  <ion-button (click)="openModalToolTip('verb')" color="verb">Verb</ion-button>
-                  <ion-button (click)="openModalToolTip('tense')" color="tense">Tense</ion-button>
-                  <ion-button (click)="openModalToolTip('subject')" color="subject">Subject</ion-button>
-                  <ion-button (click)="openModalToolTip('object')" color="object">Object</ion-button>
-                  <ion-button (click)="openModalToolTip('verb')" color="verb">Verb</ion-button>
-                  <ion-button (click)="openModalToolTip('tense')" color="tense">Tense</ion-button>
-                  <ion-button (click)="openModalToolTip('subject')" color="subject">Subject</ion-button>
-                  <ion-button (click)="openModalToolTip('object')" color="object">Object</ion-button>
-                  <ion-button (click)="openModalToolTip('verb')" color="verb">Verb</ion-button>
-                  <ion-button (click)="openModalToolTip('tense')" color="tense">Tense</ion-button>
-                  <ion-button (click)="openModalToolTip('subject')" color="subject">Subject</ion-button>
-                  <ion-button (click)="openModalToolTip('object')" color="object">Object</ion-button>
-              </ion-col>
-            </ion-row>
-            </ion-grid>
-          </ion-list>
-
-      </ion-accordion>
-    </ion-accordion-group>
-  </ion-toolbar>
-</ion-footer>-->
-
-<!--Icons
-<ion-footer [translucent]="true">
-  <ion-toolbar>
-      <ion-item slot="start">
-      <ion-title>Grammar Help: </ion-title>
-      <ion-icon (click)="openModalToolTip('verb')" name="help-circle-sharp" size="large" color="verb"></ion-icon>
-      <ion-icon (click)="openModalToolTip('tense')" name="help-circle-sharp" size="large" color="tense"></ion-icon>
-      <ion-icon (click)="openModalToolTip('subject')" name="help-circle-sharp" size="large" color="subject"></ion-icon>
-      <ion-icon (click)="openModalToolTip('object')" name="help-circle-sharp" size="large" color="object"></ion-icon>
-      </ion-item>
-  </ion-toolbar>
-</ion-footer>-->
-
-

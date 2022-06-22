@@ -83,6 +83,12 @@
     font-size: 16px;
     color: white;
   }
+
+  ion-fab-button {
+    ion-label {
+      color: #FFFFFF;
+    }
+  } 
   
   .error{
     color: red;
