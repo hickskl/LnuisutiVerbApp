@@ -279,9 +279,6 @@ export class ConjugatorPage implements OnInit {
     this.myFunInformation$.unsubscribe();
   }
 
-/*
- * Disabled reset functionality
- *
   reset(){
     let key: string;
     for(let i = 0; i < this.information.length; i ++){ // find all categories at a lower index
@@ -296,6 +293,5 @@ export class ConjugatorPage implements OnInit {
     this.show_error = true;
     this.scrollToTop();
   }
-*/
 
 }
